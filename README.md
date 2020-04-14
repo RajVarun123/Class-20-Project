@@ -1,2 +1,2 @@
-# Class-20-Project
-This is the project for class 20
+# p5.play-boilerplate
+Boiler plate for p5.play
